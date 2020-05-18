@@ -26,5 +26,5 @@ Repo for just a hope to make a mathematics library by implementing in a more mat
 
 - [ ] 클래스의 구조
 - [ ] 컴퓨터에서 사용하는 일반적인 정수형 값을 이 클래스로 만들어주는 함수(또는 생성자)
-- [ ] 문자열을 파싱하여 이 클래스로 만들어주는 함수(또는 생성자)
-- [ ] 현재 클래스가 가지는 값을 표시하는 함수
+- [ ] 문자열(hex, bin)을 파싱하여 이 클래스로 만들어주는 함수(또는 생성자)
+- [ ] 현재 클래스가 가지는 값(hex, bin)을 표시하는 함수
