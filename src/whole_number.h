@@ -6,7 +6,7 @@
 
 using namespace std;
 
-namespace OrbMath
+namespace orbmath
 {
 
     class WholeNumber
@@ -26,6 +26,6 @@ namespace OrbMath
         static WholeNumber fromHexString(string s);
     };
 
-} // namespace OrbMath
+} // namespace orbmath
 
 #endif
