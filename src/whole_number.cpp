@@ -21,7 +21,7 @@ string WholeNumber::toBinString()
             tmp = (char)(((l & mask) >> 63) & 0x1);
             if (tmp > 0)
                 res += '1';
-            else if ((res.size() > 2) || (!i && j == 15))
+            else if ((res.size() > 2) || (!i && j == 63))
                 res += '0';
             l <<= 1;
         }
