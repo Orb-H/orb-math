@@ -8,6 +8,12 @@ Repo for just a hope to make a mathematics library by implementing in a more mat
 
 ---
 
+## 목차
+
+<table><tr><td><a href="#1-자연수와-범자연수">1. 자연수와 범자연수</a></td></tr></table>
+
+---
+
 ## 1. 자연수와 범자연수
 
 ### 이론적 배경
