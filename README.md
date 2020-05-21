@@ -24,12 +24,16 @@ Repo for just a hope to make a mathematics library by implementing in a more mat
 
 #### 구현할 것
 
+[소스 코드](/src/whole_number.cpp)
+
 - [x] 클래스의 구조
 - [x] 컴퓨터에서 사용하는 일반적인 정수형 값을 이 클래스로 만들어주는 함수(또는 생성자)
 - [x] 문자열(hex, bin)을 파싱하여 이 클래스로 만들어주는 함수(또는 생성자)
 - [x] 현재 클래스가 가지는 값(hex, bin)을 표시하는 함수
 
 #### 테스트
+
+[소스 코드](/src/whole_number_test.cpp)
 
 - unsigned long long 값에 대해 WholeNumber를 생성했을 때 정상적인 값을 가지고 있는가
 - unsigned long long 범위 밖의 hex string과 bin string에 대해 각각 WholeNumber를 생성했을 때 올바른 hex string과 bin string을 출력하는가
