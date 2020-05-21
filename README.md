@@ -30,3 +30,8 @@ Repo for just a hope to make a mathematics library by implementing in a more mat
 - [x] 현재 클래스가 가지는 값(hex, bin)을 표시하는 함수
 
 #### 테스트
+
+- unsigned long long 값에 대해 WholeNumber를 생성했을 때 정상적인 값을 가지고 있는가
+- unsigned long long 범위 밖의 hex string과 bin string에 대해 각각 WholeNumber를 생성했을 때 올바른 hex string과 bin string을 출력하는가
+- 잘못된 string에 대해 오류를 잘 출력하는가
+- 2 또는 16이 아닌 radix에 대해 오류를 잘 출력하는가
