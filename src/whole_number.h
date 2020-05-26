@@ -1,8 +1,8 @@
-#include <vector>
-#include <string>
-
 #ifndef __ORB_WHOLE_H__
 #define __ORB_WHOLE_H__
+
+#include <vector>
+#include <string>
 
 using namespace std;
 
