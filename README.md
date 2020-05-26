@@ -8,9 +8,12 @@ Repo for just a hope to make a mathematics library by implementing in a more mat
 
 ---
 
-## 목차
+<table><tr><td>
+<strong>목차</strong>
 
-<table><tr><td><strong>목차</strong><details><summary>1. 자연수와 범자연수</summary><ul><li><a href="#이론적-배경">이론적 배경</a></li><li><a href="#구상-및-구현">구상 및 구현</a><ul><li><a href="#구현할-것">구현할 것</a></li><li><a href="#테스트">테스트</a></li></ul></li></ul></details></td></tr></table>
+1. <a href="#1-자연수와-범자연수">자연수와 범자연수</a>
+
+</td></tr></table>
 
 ---
 
